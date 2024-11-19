@@ -1,0 +1,10 @@
+barbell
+dumbbell
+gym-ball
+kattle-ball
+leg-press
+punching-bag
+roller-abs
+statis-bicycle
+step
+treadmill
